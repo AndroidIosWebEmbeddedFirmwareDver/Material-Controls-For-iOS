@@ -25,83 +25,83 @@ Component List
 
 #### MDButton
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDButton.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDButton.gif">
 </p>
 
 #### MDTableViewCell
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDTableViewCell.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDTableViewCell.gif">
 </p>
 
 #### MDProgress
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDProgress.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDProgress.gif">
 </p>
 
 #### MDSlider
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSlider.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSlider.gif">
 </p>
 
 #### MDSwitch
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSwitch.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSwitch.gif">
 </p>
 
 #### MDTabBar
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDTabBar.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDTabBar.gif">
 </p>
 
 #### MDTabBarViewController
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDTabBarViewController.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDTabBarViewController.gif">
 </p>
 
 #### MDTextField
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDTextField_v2.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDTextField_v2.gif">
 </p>
 
 #### MDSnackbar
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSnackbar.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSnackbar.gif">
 </p>
 
 #### MDToast
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDToast.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDToast.gif">
 </p>
 
 #### MDDatePicker
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDDatePicker.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDDatePicker.gif">
 </p>
 
 #### MDTimePicker
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDTimePicker.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDTimePicker.gif">
 </p>
 
 
 # Get Started
 You can either use these controls in your app via 2 ways:
 <p>1. Add source code of those controls directly</p>
-<p>   Just download all source code files from this github repository and add those files directly to your XCode project.</p>
+<p>   Just download all source code files from this github repository and add those files directly to your Xcode project.</p>
 
 <p>2. Use via cocoapods</p>
 <p>   Add following line to Podfile:</p>
-<p>     pod 'MaterialControls', '~> 1.0.2'</p>
+<p>     pod 'MaterialControls', '~> 1.2.2'</p>
 
 # Some samples with floating button
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSamples_Flinging.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSamples_Flinging.gif">
 </p>
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSamples_Sheet.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSamples_Sheet.gif">
 </p>
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://dl.dropboxusercontent.com/u/80802400/MaterialDesign/MDSamples_Toolbar.gif">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/fpt-software/Material-Controls-For-iOS/master/Screenshots/MDSamples_Toolbar.gif">
 </p>
 
 # Full controls documentation
